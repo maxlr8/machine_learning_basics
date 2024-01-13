@@ -1,4 +1,4 @@
-# regression
+# Clustering
 
 This notebook tests the different performances of clustering algorithms on a simple dataset called Mall Customers that contains the details of the customers that come to the mall for shopping. The task is to segregate the customers into different groups based on their financial characteristics.
 
